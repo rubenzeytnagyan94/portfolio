@@ -44,6 +44,13 @@ const projects = [
     text: "An interactive archive of historical materials with cards and filters..",
     tech: "JavaScript • html • css",
     github: "https://rome-psi-orcin.vercel.app/"
+  },
+  {
+    title: "Karucapatman gorcakalutyun",
+    type: "Web App",
+    text: "Building Construction.",
+    tech: "JavaScript • html • css",
+    github: "https://karucapatman-gorcakalutyun.vercel.app/"
   }
 ];
 
