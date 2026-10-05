@@ -51,6 +51,20 @@ const projects = [
     text: "Building Construction.",
     tech: "JavaScript • html • css",
     github: "https://karucapatman-gorcakalutyun.vercel.app/"
+  },
+  {
+    title: "Animal Planet",
+    type: "Web App",
+    text: "Animal Planet.",
+    tech: "JavaScript • html • css",
+    github: "https://animalplanet-six.vercel.app/"
+  },
+  {
+    title: "Online Market",
+    type: "Web App",
+    text: "Market.",
+    tech: "JavaScript • html • css",
+    github: "https://online-xanut.vercel.app/"
   }
 ];
 
