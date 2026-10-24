@@ -46,7 +46,7 @@ const projects = [
     github: "https://rome-psi-orcin.vercel.app/"
   },
   {
-    title: "Karucapatman gorcakalutyun",
+    title: "Construction Agency",
     type: "Web App",
     text: "Building Construction.",
     tech: "JavaScript • html • css",
@@ -65,7 +65,42 @@ const projects = [
     text: "Market.",
     tech: "JavaScript • html • css",
     github: "https://online-xanut.vercel.app/"
-  }
+  },
+  {
+    title: "BarberShop",
+    type: "Web App",
+    text: "BarberShop.",
+    tech: "JavaScript • html • css",
+    github: "https://barbershop-ebon-six.vercel.app/"
+  },
+  {
+    title: "Jewlery",
+    type: "Web App",
+    text: "A selection of beautifuly jewelry",
+    tech: "JavaScript • html • css",
+    github: "https://zarter-ozwt.vercel.app/"
+  },
+  {
+    title: "Child Development ceter",
+    type: "Web App",
+    text: "Development ceter",
+    tech: "JavaScript • html • css",
+    github: "https://zargacmankentron.vercel.app/"
+  },
+  {
+    title: "Super Market",
+    type: "Web App",
+    text: "Market",
+    tech: "JavaScript • html • css",
+    github: "https://supermarket-mu-one.vercel.app/"
+  },
+  {
+    title: "Sport News",
+    type: "Web App",
+    text: "Sport",
+    tech: "JavaScript • html • css",
+    github: "https://sport-lilac-zeta.vercel.app/"
+  },
 ];
 
 const skills = [
